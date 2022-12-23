@@ -21,8 +21,9 @@
     <h3>Web Development</h3>
         <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
         <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
+        <img src="https://img.shields.io/static/v1?label=&message=SCSS&color=%23CC6699&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="SCSS">
         <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript">
-        <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=%23CC6699&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="bootstrap">
+        <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=%231572B6&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="bootstrap">
         <br>
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
