@@ -45,3 +45,9 @@
         <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein112&show_icons=true&locale=en&layout=compact" alt="Hussein" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein112&show_icons=true&locale=en" alt="Hussein" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussein112" alt="Hussein" /></p>
+ 
