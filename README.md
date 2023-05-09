@@ -38,9 +38,9 @@
     <h3>AI</h3>
         <img src="https://img.shields.io/static/v1?label=&message=Python&color=%231572B6&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="Python">
         <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&color=%231572B6&style=for-the-badge&logo=tensorflow&logoColor=whitesmoke" alt="Tensorflow">
-  <img src="https://img.shields.io/static/v1?label=&message=sckit&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Sckit">
+  <img src="https://img.shields.io/static/v1?label=&message=sckit&color=%231572B6&style=for-the-badge&logo=sckit&logoColor=whitesmoke" alt="Sckit">
         <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
-  <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="NLTK">
+  <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
     <h3>Other</h3>
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux OS">
         <img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT">
