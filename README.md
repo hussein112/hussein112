@@ -1,7 +1,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=hussein112&label=Profile%20views&color=0e75b6&style=flat" alt="hussein112" /></p>
 
 <h1>Hussein Khalil</h1>
-<h2>A Developer who never stops learning!</h2>
+<h2>A Developer Who Never Stops Learning.</h2>
 
 <p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University</p>
 <p>🤖 I’m experienced in Web and Mobile Development.</p>
@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
 </div>
     <h3>Statistics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein112&show_icons=true&locale=en&layout=compact" alt="Hussein" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein112&show_icons=true&locale=en&layout=compact" alt="Hussein" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein112&show_icons=true&locale=en" alt="Hussein" /></p>
 
