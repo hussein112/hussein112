@@ -5,8 +5,9 @@
 
 <p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University.</p>
 <p>🤖 I’m experienced in Web and Mobile Development.</p>
-<p>👨‍💻 Interested in all AI Fields.</p>
 <p>👨‍💻 Junior NLP Engineer.</p>
+<p>🤖 Interested in all AI Fields.</p>
+
 
 <br>
 
