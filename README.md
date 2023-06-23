@@ -27,14 +27,17 @@
     <br>
     <h4>AI</h4>
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" />
+    <br>
+    <br>
+    <img src="https://img.shields.io/static/v1?label=&message=numpy&color=%231572B6&style=for-the-badge&logo=numpy&logoColor=whitesmoke" alt="numpy">
+    <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
+    <img src="https://img.shields.io/static/v1?label=&message=openaiapi&color=%231572B6&style=for-the-badge&logo=openai&logoColor=whitesmoke" alt="Open Ai Api">
     <img src="https://img.shields.io/static/v1?label=&message=Langchain&color=%231572B6&style=for-the-badge&logo=langchain&logoColor=whitesmoke" alt="Langchain">
     <img src="https://img.shields.io/static/v1?label=&message=Scikit&color=%231572B6&style=for-the-badge&logo=scikit&logoColor=whitesmoke" alt="Scikit">
-    <img src="https://img.shields.io/static/v1?label=&message=numpy&color=%231572B6&style=for-the-badge&logo=numpy&logoColor=whitesmoke" alt="numpy">
     <img src="https://img.shields.io/static/v1?label=&message=FAISS&color=%231572B6&style=for-the-badge&logo=faiss&logoColor=whitesmoke" alt="FAISS">
     <img src="https://img.shields.io/static/v1?label=&message=Pinecone&color=%231572B6&style=for-the-badge&logo=pinecone&logoColor=whitesmoke" alt="Pinecone">
-    <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
     <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
-  <img src="https://img.shields.io/static/v1?label=&message=openaiapi&color=%231572B6&style=for-the-badge&logo=openai&logoColor=whitesmoke" alt="Open Ai Api">
+
 <h4>Other</h4>
   <img src="https://skillicons.dev/icons?i=java,docker,git,github,linux&theme=light" />
 
