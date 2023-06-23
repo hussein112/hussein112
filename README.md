@@ -4,54 +4,44 @@
 <h2>A Developer Who Never Stops Learning.</h2>
 
 <p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University.</p>
-<p>🤖 I’m experienced in Web and Mobile Development.</p>
+<p>🤖 Experienced in Web Development and Chatbot Development.</p>
 <p>👨‍💻 Junior NLP Engineer.</p>
 <p>🤖 Interested in all AI Fields.</p>
-
 
 <br>
 
 <h2>📪 Contact me</h2>
 <p>
-  <a href="mailto:husseinkhalil420@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <a href="mailto:husseinkhalil420@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p> 
-  <br>
+
+<br>
 
 <div>
   <h2>🧰 Skills: </h2><br>
-    <h4>Web Development (LAMP)</h4>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <br>
-        <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
-        <img src="https://img.shields.io/static/v1?label=&message=SCSS&color=%23CC6699&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="SCSS">
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript">
-        <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=%231572B6&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="bootstrap">
-        <br>
+    <h4>Web Development</h4>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,sass,html,css,bootstrap&theme=light" />
+    <br>
     <h4>Mobile Development</h4>
-        <img src="https://img.shields.io/static/v1?label=&message=JAVA&color=orange&style=for-the-badge&logo=java&logoColor=whitesmoke" alt="JAVA">
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-        <br>
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://skillicons.dev/icons?i=react,sqlite&theme=light" />
+    <br>
     <h4>AI</h4>
-        <img src="https://img.shields.io/static/v1?label=&message=Python&color=%231572B6&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="Python">
-        <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&color=%231572B6&style=for-the-badge&logo=tensorflow&logoColor=whitesmoke" alt="Tensorflow">
-  <img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=%231572B6&style=for-the-badge&logo=pytorch&logoColor=whitesmoke" alt="Pytorch">
-  <img src="https://img.shields.io/static/v1?label=&message=Langchain&color=%231572B6&style=for-the-badge&logo=langchain&logoColor=whitesmoke" alt="Langchain">
-  <img src="https://img.shields.io/static/v1?label=&message=Scikit&color=%231572B6&style=for-the-badge&logo=scikit&logoColor=whitesmoke" alt="Scikit">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" />
+    <img src="https://img.shields.io/static/v1?label=&message=Langchain&color=%231572B6&style=for-the-badge&logo=langchain&logoColor=whitesmoke" alt="Langchain">
+    <img src="https://img.shields.io/static/v1?label=&message=Scikit&color=%231572B6&style=for-the-badge&logo=scikit&logoColor=whitesmoke" alt="Scikit">
+    <img src="https://img.shields.io/static/v1?label=&message=numpy&color=%231572B6&style=for-the-badge&logo=numpy&logoColor=whitesmoke" alt="numpy">
     <img src="https://img.shields.io/static/v1?label=&message=FAISS&color=%231572B6&style=for-the-badge&logo=faiss&logoColor=whitesmoke" alt="FAISS">
-  <img src="https://img.shields.io/static/v1?label=&message=Pinecone&color=%231572B6&style=for-the-badge&logo=pinecone&logoColor=whitesmoke" alt="Pinecone">
-        <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
-  <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
-    <h4>Other</h4>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux OS">
-        <img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT">
-        <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
+    <img src="https://img.shields.io/static/v1?label=&message=Pinecone&color=%231572B6&style=for-the-badge&logo=pinecone&logoColor=whitesmoke" alt="Pinecone">
+    <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
+    <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
+  <img src="https://img.shields.io/static/v1?label=&message=openaiapi&color=%231572B6&style=for-the-badge&logo=openai&logoColor=whitesmoke" alt="Open Ai Api">
+<h4>Other</h4>
+  <img src="https://skillicons.dev/icons?i=java,docker,git,github,linux&theme=light" />
+
+<br>
 </div>
-    <h4>Statistics</h4>
+
+<h4>Statistics</h4>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein112&show_icons=true&locale=en&layout=compact" alt="Hussein" />
   </p>
@@ -63,4 +53,3 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussein112" alt="Hussein" />
   </p>
-   
