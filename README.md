@@ -39,7 +39,9 @@
     <h4>AI</h4>
         <img src="https://img.shields.io/static/v1?label=&message=Python&color=%231572B6&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="Python">
         <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&color=%231572B6&style=for-the-badge&logo=tensorflow&logoColor=whitesmoke" alt="Tensorflow">
-  <img src="https://img.shields.io/static/v1?label=&message=sckit&color=%231572B6&style=for-the-badge&logo=scikit&logoColor=whitesmoke" alt="Scikit">
+  <img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=%231572B6&style=for-the-badge&logo=pytorch&logoColor=whitesmoke" alt="Pytorch">
+  <img src="https://img.shields.io/static/v1?label=&message=Langchain&color=%231572B6&style=for-the-badge&logo=langchain&logoColor=whitesmoke" alt="Langchain">
+  <img src="https://img.shields.io/static/v1?label=&message=Scikit&color=%231572B6&style=for-the-badge&logo=scikit&logoColor=whitesmoke" alt="Scikit">
         <img src="https://img.shields.io/static/v1?label=&message=Spacy&color=%231572B6&style=for-the-badge&logo=spacy&logoColor=whitesmoke" alt="Spacy">
   <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
     <h4>Other</h4>
