@@ -3,7 +3,7 @@
 <h1>Hussein Khalil</h1>
 <h2>A Developer Who Never Stops Learning.</h2>
 
-<p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University.</p>
+<p>🎓 Bachelor's Degree in Computer Science.</p>
 <p>🤖 Experienced in Web Development and Chatbot Development.</p>
 <p>👨‍💻 Junior NLP Engineer.</p>
 <p>🤖 Interested in all AI Fields.</p>
