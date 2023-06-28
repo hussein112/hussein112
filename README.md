@@ -7,6 +7,7 @@
 <p>🤖 Experienced in Web Development and Chatbot Development.</p>
 <p>👨‍💻 Junior NLP Engineer.</p>
 <p>🤖 Interested in all AI Fields.</p>
+<p>👨‍💻 Familiar with DevOps practices.</p>
 
 <br>
 
