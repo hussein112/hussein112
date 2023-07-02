@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,sass,html,css,bootstrap&theme=light" />
     <br>
     <h4>Mobile Development</h4>
-    <img src="https://skillicons.dev/icons?i=react,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,sqlite,androidstudio&theme=light" />
     <br>
     <h4>AI</h4>
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" />
