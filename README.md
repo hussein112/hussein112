@@ -19,7 +19,7 @@
 <br>
 
 <div>
-  <h2>🧰 Skills: </h2><br>
+  <h2>🧰 Skills: </h2>
     <h4>Web Development</h4>
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,sass,html,css,bootstrap&theme=light" />
     <br>
