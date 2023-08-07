@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=nltk&color=%231572B6&style=for-the-badge&logo=nltk&logoColor=whitesmoke" alt="NLTK">
 
 <h4>Other</h4>
-  <img src="https://skillicons.dev/icons?i=java,docker,git,github,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,docker,git,github,linux,figma&theme=light" />
 
 <br>
 </div>
