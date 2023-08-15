@@ -4,7 +4,7 @@
 <h2>A Developer Who Never Stops Learning.</h2>
 
 <p>🎓 Bachelor's Degree in Computer Science.</p>
-<p>🤖 Mid-Level Web Developer / Chatbot Developer.</p>
+<p>🤖 Mid-Level Full Stack Developer / Chatbot Developer.</p>
 <p>👨‍💻 Junior NLP Engineer.</p>
 <p>🤖 Interested in all AI Fields.</p>
 <p>👨‍💻 Familiar with DevOps practices.</p>
