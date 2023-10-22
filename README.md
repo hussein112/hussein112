@@ -6,7 +6,6 @@
 <p>🎓 Bachelor's Degree in Computer Science.</p>
 <p>🤖 Mid-Level Full Stack Developer / Chatbot Developer.</p>
 <p>👨‍💻 Junior AI Engineer.</p>
-<p>🤖 Interested in all AI Fields.</p>
 <p>👨‍💻 Familiar with DevOps practices.</p>
 
 <br>
