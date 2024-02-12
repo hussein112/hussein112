@@ -1,10 +1,10 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=hussein112&label=Profile%20views&color=0e75b6&style=flat" alt="hussein112" /></p>
 
 <h1>Hussein Khalil</h1>
-<h2>A Developer Who Never Stops Learning.</h2>
+<h2>A Software Engineer Who Never Stops Learning.</h2>
 
 <p>🎓 Bachelor's Degree in Computer Science.</p>
-<p>🤖 Mid-Level Full Stack Developer / Chatbot Developer.</p>
+<p>🤖 Mid-Level Full Stack Developer</p>
 <p>👨‍💻 Junior AI Engineer.</p>
 <p>👨‍💻 Familiar with DevOps practices.</p>
 
