@@ -4,8 +4,8 @@
 <h2>A Software Engineer Who Never Stops Learning.</h2>
 
 <p>🎓 Bachelor's Degree in Computer Science.</p>
-<p>🤖 Mid-Level Full Stack Developer</p>
-<p>👨‍💻 Junior AI Engineer.</p>
+<p>🤖 Senior Full Stack Developer</p>
+<p>👨‍💻 Mid-Level AI Engineer.</p>
 <p>👨‍💻 Familiar with DevOps practices.</p>
 
 <br>
@@ -20,10 +20,10 @@
 <div>
   <h2>🧰 Skills: </h2>
     <h4>Web Development</h4>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,sass,html,css,bootstrap,wordpress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,sass,html,css,bootstrap,wordpress,react,next&theme=light" />
     <br>
     <h4>Mobile Development</h4>
-    <img src="https://skillicons.dev/icons?i=react,sqlite,androidstudio,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,sqlite,androidstudio,firebase,supabase&theme=light" />
     <br>
     <h4>AI</h4>
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=light" />
